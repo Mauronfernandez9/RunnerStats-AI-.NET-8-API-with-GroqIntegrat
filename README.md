@@ -73,25 +73,25 @@ Into `appsettings.json`.
 
 All endpoints were tested using Bruno API, validating JWT authentication, CRUD operations, and AI responses.
 
-![Register Test](../RunnerStats/images/apiRunnerIMgRegister.png)
+![Register Test](RunnerStats/Images/apiRunnerIMgRegister.png)
 
-![Login Test](RunnerStats/images/apiRunnerImgLogin.png)
+![Login Test](RunnerStats/Images/apiRunnerImgLogin.png)
 
-![GetRunner Test](RunnerStats/images/apiRunnerImgGetRunner.png)
+![GetRunner Test](RunnerStats/Images/apiRunnerImgGetRunner.png)
 
-![UpdateRunner Test](RunnerStats/images/apiRunnerImgUpdateRunner.png)
+![UpdateRunner Test](RunnerStats/Images/apiRunnerImgUpdateRunner.png)
 
-![UpdateRunner2 Test](RunnerStats/images/apiRunnerImgUpdateRunner2.png)
+![UpdateRunner2 Test](RunnerStats/Images/apiRunnerImgUpdateRunner2.png)
 
-![GetDataNutrition Test](RunnerStats/images/apiRunnerImgGetDataNutrition.png)
+![GetDataNutrition Test](RunnerStats/Images/apiRunnerImgGetDataNutrition.png)
 
-![PutDataNutrition Test](RunnerStats/images/apiRunnerImgPutDataNutrition.png)
+![PutDataNutrition Test](RunnerStats/Images/apiRunnerImgPutDataNutrition.png)
 
-![ChatIA Test](RunnerStats/images/apiRunnerImgChatAI.png)
+![ChatIA Test](RunnerStats/Images/apiRunnerImgChatAI.png)
 
-![ChatIA2 Test](RunnerStats/images/apiRunnerImgChatAI2.png)
+![ChatIA2 Test](RunnerStats/Images/apiRunnerImgChatAI2.png)
 
-![ChatIA3 Test](RunnerStats/images/apiRunnerImgChatAI3.png)
+![ChatIA3 Test](RunnerStats/Images/apiRunnerImgChatAI3.png)
 
 
 ## 👨‍💻 Author
