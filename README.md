@@ -75,7 +75,7 @@ All endpoints were tested using Bruno API, validating JWT authentication, CRUD o
 
 ![Register Test](RunnerStats/Images/apiRunnerIMgRegister.png)
 
-![Login Test](RunnerStats/Images/apiRunnerImgLogin.png)
+![Login Test](RunnerStats/Images/apurRunnerImgLogin.png)
 
 ![GetRunner Test](RunnerStats/Images/apiRunnerImgGetRunner.png)
 
