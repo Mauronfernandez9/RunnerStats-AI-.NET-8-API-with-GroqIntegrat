@@ -83,11 +83,11 @@ All endpoints were tested using Bruno API, validating JWT authentication, CRUD o
 
 ![UpdateRunner2 Test](RunnerStats/Images/apiRunnerImgUpdateRunner2.png)
 
-![GetDataNutrition Test](RunnerStats/Images/apiRunnerImgGetDataNutrition.png)
+![GetDataNutrition Test](RunnerStats/Images/apirRunnerImgGetDataNutrition.png)
 
 ![PutDataNutrition Test](RunnerStats/Images/apiRunnerImgPutDataNutrition.png)
 
-![ChatIA Test](RunnerStats/Images/apiRunnerImgChatAI.png)
+![ChatIA Test](RunnerStats/Images/apiRunnerImgChatIA.png)
 
 ![ChatIA2 Test](RunnerStats/Images/apiRunnerImgChatAI2.png)
 
