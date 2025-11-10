@@ -1,0 +1,5 @@
+@RunnerStats_HostAddress = https://localhost:7254
+
+GET {{RunnerStats_HostAddress}}/weatherforecast/
+Accept: application/json
+
