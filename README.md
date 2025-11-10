@@ -73,7 +73,7 @@ Into `appsettings.json`.
 
 All endpoints were tested using Bruno API, validating JWT authentication, CRUD operations, and AI responses.
 
-![Register Test](RunnerStats/images/apiRunnerIMgRegister.png)
+![Register Test](./RunnerStats/images/apiRunnerIMgRegister.png)
 
 ![Login Test](RunnerStats/images/apiRunnerImgLogin.png)
 
